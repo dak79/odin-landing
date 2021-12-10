@@ -9,10 +9,10 @@
     --light-background: #ffffff;
     --main-text-color: #F9FAF8;
     --main-text-weight: 900;
-    --main-text-size: 48px;
+    --main-text-size: 2.5rem;
     --secondary-text-color: #E5E7EB;
-    --secondary-text-size: 18px;
-    --header-logo-size: 24px;
+    --secondary-text-size: 1.2rem;
+    --header-logo-size: 2rem;
     --button-background: #3882F6;
     --information-header-size: 1.5rem;
 }
@@ -62,6 +62,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 1rem;
 }
 
 .first-text {
