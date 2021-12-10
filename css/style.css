@@ -14,7 +14,7 @@
     --secondary-text-size: 18px;
     --header-logo-size: 24px;
     --button-background: #3882F6;
-    --information-header-size: 36px;
+    --information-header-size: 1.5rem;
 }
 
 body {

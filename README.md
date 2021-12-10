@@ -10,11 +10,6 @@ This the provided design:
 
 ![color and font](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
 
-
-
-
-
-
 ## Credits
 
 For this project i used some image. Thanks to:
