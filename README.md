@@ -37,16 +37,11 @@ This the provided design:
 
 * When you finish, don’t forget to push it up to GitHub!
 
-
-
 ## Credits
+For this project I used some image.
 
-For this project i used some image. Thanks to:
-
-Photo by <a href="https://unsplash.com/@ksusha_kazak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ksenia Kazak</a> on <a href="https://unsplash.com/@ksusha_kazak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-Photo by Ksenia Kazak on Unsplash
-Photo by Ricardo Resende on Unsplash  
-Photo by Christina Deravedisian on Unsplash  
-Photo by Dim Gunger on Unsplash
-Photo by Hans Isaacson on Unsplash
+* Photo by Ksenia Kazak on Unsplash.
+* Photo by Ricardo Resende on Unsplash  
+* Photo by Christina Deravedisian on Unsplash  
+* Photo by Dim Gunger on Unsplash
+* Photo by Hans Isaacson on Unsplash
