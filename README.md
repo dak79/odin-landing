@@ -5,7 +5,7 @@
 
 
 ## Description
-This project is part of [The Odin Project - Foundation Course](https://www.theodinproject.com/lessons/foundations-landing-page) and its goal is to implemen a given design in HTML and CSS using Flexbox Layout.
+This project is part of [The Odin Project - Foundations Path](https://www.theodinproject.com/lessons/foundations-landing-page) and its goal is to implemen a given design in HTML and CSS using Flexbox Layout.
 
 This the provided design:
 
