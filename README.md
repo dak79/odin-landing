@@ -1,5 +1,16 @@
 # Odin - Landing Page
 
+Live Preview
+
+
+Description
+
+
+Tecnologies
+
+
+Assignemt
+
 This project is part of The Odin Project.
 
 The goal is to implement a given design in HTML and CSS using Flexbox Layout.
