@@ -9,7 +9,7 @@ Description
 Tecnologies
 
 
-Assignemt
+Assignement
 
 This project is part of The Odin Project.
 
